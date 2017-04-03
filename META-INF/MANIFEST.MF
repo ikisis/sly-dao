@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dao for eXtreme Programming
+Bundle-SymbolicName: jdbc-xp
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: com.bankwareglobal
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
